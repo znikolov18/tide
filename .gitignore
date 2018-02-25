@@ -3,5 +3,6 @@
 .settings/
 .DS_Store
 log/
+Logs/
 target/
 *.jar
