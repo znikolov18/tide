@@ -1,0 +1,9 @@
+2018-02-25 22:23:07 INFO  AnnouncementServiceDefaultImpl:42 - Announcement with id 1 was not found.
+2018-02-25 22:23:07 INFO  AnnouncementServiceDefaultImpl:66 - Announcement with id 1 was not found.
+2018-02-25 22:23:07 INFO  AnnouncementServiceDefaultImpl:52 - Created an announcement with id 0
+2018-02-25 22:23:07 INFO  UserServiceDefaultImpl:34 - User with id 1 was not found.
+2018-02-25 22:23:07 INFO  UserServiceDefaultImpl:44 - Created an user with id 0
+2018-02-25 22:23:07 INFO  VoteServiceDefaultImpl:92 - Vote for announcement with id 1 by user with id 1 already exists.
+2018-02-25 22:23:07 INFO  VoteServiceDefaultImpl:82 - Announcement with id 1 was not found.
+2018-02-25 22:23:07 INFO  VoteServiceDefaultImpl:82 - Announcement with id 1 was not found.
+2018-02-25 22:23:07 INFO  VoteServiceDefaultImpl:75 - Created a vote with id 0.
